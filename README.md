@@ -25,7 +25,7 @@ Utilisation
 -----------
 
 ```
-make
-./philosophe -p X -e Y
+$> make
+$> ./philosophe -p X -e Y
 ```
 X = nombre de philosophes et Y = nombre de grain de riz par philosophe
